@@ -1,6 +1,7 @@
 # DBMS Project CS 5200
 A repository for project for CS5200 Northeastern University at Northeastern University
-Requirements in spec.pdf and nav.pdf
+
+# Requirements in spec.pdf and narrative.pdf
 
 # Program Names (Command Line Interface)
 
